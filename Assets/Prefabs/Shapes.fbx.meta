@@ -1,0 +1,273 @@
+fileFormatVersion: 2
+guid: b506c21ab435dd840b1f1a7b511b51d0
+ModelImporter:
+  serializedVersion: 22103
+  internalIDToNameTable:
+  - first:
+      74: -1307440807592954638
+    second: Cube 1|ArmatureAction
+  - first:
+      74: -7584581630323430356
+    second: Cube 1|Circle.001Action
+  - first:
+      74: -6555458356494761103
+    second: Cube 1|CircleAction
+  - first:
+      74: 9061492675969214393
+    second: Cube 1|EmptyAction
+  - first:
+      74: 5792064113056498559
+    second: Cuboid|Armature.001Action.002
+  - first:
+      74: -4916899033500610953
+    second: Cuboid|Circle.001Action
+  - first:
+      74: -4419016185816710814
+    second: Cuboid|CircleAction
+  - first:
+      74: 7812245491607305886
+    second: Cuboid|EmptyAction
+  - first:
+      74: 1449504433566895307
+    second: Cube 2|Armature.001Action.002
+  - first:
+      74: -226804588724347299
+    second: Cube 2|Armature.002Action
+  - first:
+      74: 5144112555316092195
+    second: Cube 2|Armature.003Action
+  - first:
+      74: -1826118789438219369
+    second: Cube 2|Circle.001Action
+  - first:
+      74: 260096803003324957
+    second: Cube 2|CircleAction
+  - first:
+      74: -229244113114183494
+    second: Cube 2|EmptyAction
+  - first:
+      74: 5780843283033030769
+    second: Cube 3|Armature.001Action.002
+  - first:
+      74: 8231531578282874138
+    second: Cube 3|Armature.002Action
+  - first:
+      74: -5609737296700960104
+    second: Cube 3|Armature.003Action
+  - first:
+      74: -4706580089465608053
+    second: Cube 3|Circle.001Action
+  - first:
+      74: 7454232901215249706
+    second: Cube 3|CircleAction
+  - first:
+      74: 8517924295400266245
+    second: Cube 3|EmptyAction
+  - first:
+      74: 8211743138046944479
+    second: Cube 4|Armature.001Action.002
+  - first:
+      74: 7956766773554542259
+    second: Cube 4|Armature.002Action
+  - first:
+      74: 1645108279370046921
+    second: Cube 4|Armature.003Action
+  - first:
+      74: 5027161024615318225
+    second: Cube 4|Armature.004Action
+  - first:
+      74: 8421820025646572245
+    second: Cube 4|Armature.005Action
+  - first:
+      74: -4716991372041992054
+    second: Cube 4|Armature.006Action
+  - first:
+      74: -8199735746175365130
+    second: Cube 4|Circle.001Action
+  - first:
+      74: -4690909155427977478
+    second: Cube 4|CircleAction
+  - first:
+      74: 238091173832694428
+    second: Cube 4|EmptyAction
+  - first:
+      74: 7728960439377965451
+    second: Cube 5|Armature.001Action.002
+  - first:
+      74: 1286683483889539490
+    second: Cube 5|Armature.002Action
+  - first:
+      74: 7804626724608491047
+    second: Cube 5|Armature.003Action
+  - first:
+      74: 4036044947372362204
+    second: Cube 5|Armature.004Action
+  - first:
+      74: -1113290768480590861
+    second: Cube 5|Armature.005Action
+  - first:
+      74: -314180415441771507
+    second: Cube 5|Armature.006Action
+  - first:
+      74: -6406029317063429638
+    second: Cube 5|Circle.001Action
+  - first:
+      74: -7836075025563478522
+    second: Cube 5|CircleAction
+  - first:
+      74: -1397360480053183608
+    second: Cube 5|EmptyAction
+  - first:
+      74: 844488172133122268
+    second: Penta|Armature.006Action
+  - first:
+      74: 7182480191345858461
+    second: Penta|Circle.001Action
+  - first:
+      74: 4478543421479453011
+    second: Penta|CircleAction
+  - first:
+      74: -8229487648298506922
+    second: Penta|EmptyAction
+  - first:
+      74: -7565112627655794729
+    second: Cylinder Plane|Circle.001Action
+  - first:
+      74: 7077578725768222178
+    second: Cylinder Plane|CircleAction
+  - first:
+      74: -8520308109019116785
+    second: Cylinder Plane|EmptyAction
+  - first:
+      74: -7155167209297504404
+    second: Cylinder Plane|PlaneAction
+  - first:
+      74: 4323227516821621649
+    second: Cylinder Empty|Circle.001Action
+  - first:
+      74: 8856487314871017492
+    second: Cylinder Empty|CircleAction
+  - first:
+      74: 3580958330085819489
+    second: Cylinder Empty|EmptyAction
+  - first:
+      74: -5119701817627030841
+    second: Cylinder Top|Circle.001Action
+  - first:
+      74: 1658057207531530834
+    second: Cylinder Top|CircleAction
+  - first:
+      74: 952513865954680062
+    second: Cylinder Top|EmptyAction
+  - first:
+      74: -1104677291348394144
+    second: Cylinder Bottom|Circle.001Action
+  - first:
+      74: 2440656746753270815
+    second: Cylinder Bottom|CircleAction
+  - first:
+      74: 3708126577604413351
+    second: Cylinder Bottom|EmptyAction
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
